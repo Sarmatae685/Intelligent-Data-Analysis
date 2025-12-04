@@ -8,7 +8,7 @@
 
 Найпростіший спосіб - відкрити ноутбук прямо в браузері, без встановлення:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarmatae685/Intelligent-Data-Analysis/blob/main/lab1-data-preprocessing/data_preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarmatae685/Intelligent-Data-Analysis/blob/main/lab1-data-preprocessing/data_preprocessing.ipynb?flush_cache=true)
 
 **Просто натисніть кнопку вище і запустіть код!**
 - Датасет завантажиться автоматично з GitHub
