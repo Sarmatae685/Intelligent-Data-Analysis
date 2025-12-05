@@ -1,4 +1,4 @@
-# Lab 2: Regression
+# Lab 3: Regression
 
 Класифікація цін мобільних телефонів за допомогою Support Vector Machine (SVM) та Naive Bayes.
 
