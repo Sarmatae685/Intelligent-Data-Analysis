@@ -2,14 +2,13 @@
 
 A collection of machine learning projects completed during the Master's program at **Lviv Polytechnic National University**, demonstrating practical skills in data preprocessing, supervised learning, unsupervised learning, and anomaly detection.
 
-## 📚 Course Information
+## Subject Information
 
-**Course**: Intelligent Data Analysis  
-**Program**: Master's Degree in Data Analysis  
+**Name**: Intelligent Data Analysis  
 **Institution**: Lviv Polytechnic National University  
-**Semester**: 1st Semester  
+**Semester**: 1st  
 
-## 🎯 Overview
+## Overview
 
 This repository contains 5 laboratory works covering fundamental machine learning techniques:
 
@@ -18,8 +17,6 @@ This repository contains 5 laboratory works covering fundamental machine learnin
 - **Regression** - Predictive modeling with regularization
 - **Clustering** - Unsupervised pattern discovery
 - **Anomaly Detection** - Fraud detection in imbalanced datasets
-
-Each lab demonstrates end-to-end ML workflow: data loading, preprocessing, model training, evaluation, and visualization.
 
 ## 📂 Repository Structure
 ```
@@ -64,30 +61,6 @@ Open any lab directly in your browser - no installation required!
 | 5 | Anomaly Detection | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarmatae685/Intelligent-Data-Analysis/blob/main/lab5-anomaly-detection/credit_fraud_detection.ipynb?flush_cache=true) |
 
 **All datasets load automatically in Colab!**
-
----
-
-### Option 2: Local Setup
-
-Clone the repository and run notebooks on your machine:
-```bash
-# Clone repository
-git clone https://github.com/Sarmatae685/Intelligent-Data-Analysis.git
-cd Intelligent-Data-Analysis
-
-# Create virtual environment (recommended)
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Start Jupyter
-jupyter notebook
-
-# Navigate to any lab folder and open the .ipynb file
-```
-
 
 ---
 
